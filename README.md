@@ -1,7 +1,7 @@
 # UIScrollView+Keyboad
 
-This project ilustrates a way to properly handle textviews in a scrollview such that the keyboard does not overlay any of them. 
-It also shows how to do it when textfields are nested within other UIViews, and maybe are handled in a different class.
+This project ilustrates how to make sure textfields are not covered by the keyboard.
+It also goes into more complex cases when the textfields might be nested in other views.
 
 The file you are interested in is the ViewController. 
 
